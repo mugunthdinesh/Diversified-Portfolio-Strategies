@@ -14,3 +14,5 @@ This project analyzes various investment portfolios to provide insights into the
 
 ## Conclusion
 The Diamondman Morgan Portfolio offers investors a balanced approach to wealth accumulation, combining stable growth with risk management. By leveraging historical data and portfolio optimization techniques, this project aims to empower investors to make informed decisions and achieve their financial goals.
+
+###### Disclaimer: The information provided in this repository is for educational and informational purposes only. It should not be construed as financial advice, investment recommendations, or an endorsement of any specific investment strategy. The content is provided "as is" without any representations or warranties, express or implied. Users are solely responsible for conducting their own research and due diligence before making any investment decisions. The author and contributors of this repository shall not be liable for any errors, omissions, or losses arising from the use of or reliance on the information provided herein.
